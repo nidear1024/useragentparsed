@@ -4,10 +4,6 @@ namespace Common\Tools;
 
 class UserAgentParsed
 {
-    public function __construct()
-    {
-    }
-
     private $REGSTR_EDGE = "/edge/(\d.)+/";
     private $REGSTR_IE = "/trident\/[\d.]+/i";
     private $REGSTR_OLD_IE = "/msie\s[\d.]+/i";
