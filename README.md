@@ -7,7 +7,6 @@ Analysis of the useragent in the request head
 Requirements
 ------------
  - PHP >= 7.0.0
- - Fileinfo PHP Extension
 
 Installation
 ------------
