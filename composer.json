@@ -1,0 +1,25 @@
+{
+    "name": "nidear1024/useragentparsed",
+    "description": "Analysis of the useragent in the request head",
+    "type": "library",
+    "keywords": ["useragent", "user-agent"],
+    "homepage": "https://github.com/nidear1024/useragentparsed",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhanghuan",
+            "email": "979071732@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Encore\\Admin\\": "src/"
+        },
+        "files": [
+            "src/UserAgentParsed.php"
+        ]
+    }
+}
