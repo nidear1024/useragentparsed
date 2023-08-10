@@ -16,7 +16,7 @@ Analysis of the useragent in the request head
 First, install useragentparsed.
 
 ```sh
-composer require nidear1204/useragentparsed
+composer require nidear1024/useragentparsed
 ```
 
 Then run these commands to test：
